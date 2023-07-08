@@ -1,0 +1,40 @@
+#main{
+    display: flex;
+    justify-content: center;
+}
+
+#poff{
+    display: none;
+}
+
+#buttons{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 20px;
+}
+
+#buton{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 20px;
+}
+
+#redimg {
+    display: none;
+}
+
+#colours{
+    position: relative;
+    left: 100px;
+}
+#blueimg{
+    display: none;
+}
+#orangeimg{
+    display: none;
+}
+#greenimg{
+    display: none;
+}
